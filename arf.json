@@ -5,96 +5,29 @@
     {
       "children": [
       {
-        "name": "#",
-        "type": "url",
-        "url": "#"
-      },
-      {
-        "name": "#",
-        "type": "url",
-        "url": "#"
-      },
-      {
-        "name": "#",
-        "type": "url",
-        "url": "#"
-      },
-      {
-        "name": "#",
-        "type": "url",
-        "url": "#"
-      },
-      {
-        "name": "#",
-        "type": "url",
-        "url": "#"
-      },
-      {
-        "name": "#",
-        "type": "url",
-        "url": "#"
-      },
-      {
-        "name": "#",
-        "type": "url",
-        "url": "#"
-      },
-      {
-        "name": "#",
-        "type": "url",
-        "url": "#"
-      },
-      {
-        "name": "#",
-        "type": "url",
-        "url": "#"
-      },
-      {
-        "name": "#",
-        "type": "url",
-        "url": "#"
+        "children": [
+        {
+          "name": "P-n Junc..(notes-1)",
+          "type": "url",
+          "url": "https://drive.google.com/file/d/1jQkq3u0-nYHojSJ7AUpFhlgtviQY0uls/view?usp=sharing"
+        },
+        {
+          "name": "Rectifiers.(notes-2)",
+          "type": "url",
+          "url": "https://drive.google.com/file/d/1jR3F4IbsvFsoFa5FO4Xls4T1wrfEo-Fx/view?usp=sharing"
+        }],
+        "name": "SemiCondutors Diodes",
+        "type": "folder"
       }],
-      "name": "???",
-      "type": "folder"
-    },
-    {
-      "children": [
-      {
-        "name": "#",
-        "type": "url",
-        "url": "#"
-      },
-      {
-        "name": "#",
-        "type": "url",
-        "url": "#"
-      },
-      {
-        "name": "#",
-        "type": "url",
-        "url": "#"
-      },
-      {
-        "name": "#",
-        "type": "url",
-        "url": "#"
-      },
-      {
-        "name": "#",
-        "type": "url",
-        "url": "#"
-      },
-      {
-        "name": "#",
-        "type": "url",
-        "url": "#"
-      }],
-      "name": "??",
+      
+      
+      "name": "Unit-1",
       "type": "folder"
     }],
     "name": "Electronics",
     "type": "folder"
   },
+  
  
   {
     "children": [
@@ -107,131 +40,6 @@
       }],
       "name": "UNIT-1",
       "type": "folder"
-    },
-    {
-      "children": [
-      {
-        "name": "#",
-        "type": "url",
-        "url": "#"
-      },
-      {
-        "name": "#",
-        "type": "url",
-        "url": "#"
-      },
-      {
-        "name": "#",
-        "type": "url",
-        "url": "#"
-      },
-      {
-        "name": "#",
-        "type": "url",
-        "url": "#"
-      },
-      {
-        "name": "#",
-        "type": "url",
-        "url": "#"
-      }],
-      "name": "?????",
-      "type": "folder"
-    },
-    {
-      "children": [
-      {
-        "name": "#",
-        "type": "url",
-        "url": "#"
-      },
-      {
-        "name": "#",
-        "type": "url",
-        "url": "#/"
-      },
-      {
-        "name": "#",
-        "type": "url",
-        "url": "#"
-      },
-      {
-        "name": "#",
-        "type": "url",
-        "url": "#/"
-      },
-      {
-        "name": "#",
-        "type": "url",
-        "url": "#/"
-      },
-      {
-        "name": "#",
-        "type": "url",
-        "url": "#/"
-      },
-      {
-        "name": "#",
-        "type": "url",
-        "url": "#"
-      }],
-      "name": "?????",
-      "type": "folder"
-    },
-    {
-      "children": [
-      {
-        "name": "#",
-        "type": "url",
-        "url": "#/"
-      },
-      {
-        "name": "#",
-        "type": "url",
-        "url": "#"
-      },
-      {
-        "name": "#",
-        "type": "url",
-        "url": "#/"
-      },
-      {
-        "name": "#",
-        "type": "url",
-        "url": "#"
-      },
-      {
-        "name": "#",
-        "type": "url",
-        "url": "#"
-      },
-      {
-        "name": "#",
-        "type": "url",
-        "url": "#"
-      }],
-      "name": "???",
-      "type": "folder"
-    },
-    {
-      "children": [
-      {
-        "name": "#",
-        "type": "url",
-        "url": "#"
-      }],
-      "name": "?????",
-      "type": "folder"
-    },
-    {
-      "children": [
-      {
-        "name": "#",
-        "type": "url",
-        "url": "#"
-      }],
-      "name": "????",
-      "type": "folder"
     }],
     "name": "PPS",
     "type": "folder"
@@ -241,11 +49,11 @@
     {
       "children": [
       {
-        "name": "???",
+        "name": "soon",
         "type": "url",
         "url": "#"
       }],
-      "name": "????",
+      "name": "#(Coming soon)",
       "type": "folder"
     }],
     "name": "Chemistry",
@@ -254,83 +62,7 @@
   {
     "children": [
     {
-      "children": [
-      {
-        "children": [
-        {
-          "name": "?????",
-          "type": "url",
-          "url": "#"
-        },
-        {
-          "name": "????",
-          "type": "url",
-          "url": "#/"
-        }],
-        "name": "???",
-        "type": "folder"
-      },
-      {
-        "children": [
-        {
-          "name": "????",
-          "type": "url",
-          "url": "#"
-        },
-        {
-          "name": "????",
-          "type": "url",
-          "url": "#"
-        }],
-        "name": "???",
-        "type": "folder"
-      },
-      {
-        "name": "????",
-        "type": "url",
-        "url": "#"
-      }],
-      "name": "?????",
-      "type": "folder"
-    },
-    {
-      "children": [
-      {
-        "name": "????",
-        "type": "url",
-        "url": "#"
-      },
-      {
-        "name": "????",
-        "type": "url",
-        "url": "#"
-      },
-      {
-        "name": "????",
-        "type": "url",
-        "url": "#"
-      },
-      {
-        "name": "????",
-        "type": "url",
-        "url": "#"
-      },
-      {
-        "name": "????",
-        "type": "url",
-        "url": "#"
-      },
-      {
-        "name": "????",
-        "type": "url",
-        "url": "#"
-      },
-      {
-        "name": "?????",
-        "type": "url",
-        "url": "#"
-      }],
-      "name": "????",
+      "name": "#(iDK)",
       "type": "folder"
     }],
     "name": "Maths",
@@ -347,15 +79,6 @@
       }],
       "name": "UNIT-1",
       "type": "folder"
-    },
-
-    {
-      "children": [
-        
-
-      ],
-      "name": "????",
-      "type": "folder"
     }],
     "name": "Mechanical",
     "type": "folder"
@@ -364,34 +87,7 @@
     "children": [
 
     {
-      "children": [
-
-      {
-        "children": [
-        {
-          "name": "#",
-          "type": "url",
-          "url": "#"
-        },
-        {
-          "name": "#",
-          "type": "url",
-          "url": "#"
-        },
-        {
-          "name": "#",
-          "type": "url",
-          "url": "#"
-        },
-        {
-          "name": "#",
-          "type": "url",
-          "url": "#"
-        }],
-        "name": "$",
-        "type": "folder"
-      }],
-      "name": "UNIT-1",
+      "name": "#(Coming soon)",
       "type": "folder"
     }],
     "name": "CIP",
