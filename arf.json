@@ -2,29 +2,19 @@
   "children": [
   {
     "children": [
+      
     {
-      "children": [
-      {
         "children": [
         {
-          "name": "P-n Junc..(notes-1)",
+          "name": "Signal" ,
           "type": "url",
-          "url": "https://drive.google.com/file/d/1jQkq3u0-nYHojSJ7AUpFhlgtviQY0uls/view?usp=sharing"
-        },
-        {
-          "name": "Rectifiers.(notes-2)",
-          "type": "url",
-          "url": "https://drive.google.com/file/d/1jR3F4IbsvFsoFa5FO4Xls4T1wrfEo-Fx/view?usp=sharing"
+          "url": "https://drive.google.com/file/d/1CoATwX3Z6PEI1Wdu6txL-a50BV3S4NeP/view?usp=sharing"
         }],
-        "name": "SemiCondutors Diodes",
-        "type": "folder"
-      }],
-      
       
       "name": "Unit-1",
       "type": "folder"
     }],
-    "name": "Electronics",
+    "name": "SAS",
     "type": "folder"
   },
   
@@ -34,24 +24,21 @@
     {
       "children": [
       {
-        "name": "Algorithm and FlowChart",
+        "name": "Decimal no. to Binary no. ",
         "type": "url",
-        "url": "https://drive.google.com/file/d/1KXq6W2RVuPcCskl-EBDZjNEu6cFM7Rre/view?usp=sharing"
+        "url": "https://drive.google.com/file/d/16q1JJWR0_dAdpwiyPdjXggiPKxLNwf8M/view?usp=sharing"
       }],
       "name": "UNIT-1",
       "type": "folder"
     },
     {
-      "children": [
-      {
-        "name": "Branching and looping",
+      
+        "name": "flipflop notes",
         "type": "url",
         "url": "https://drive.google.com/file/d/1sYuhRRU9C60NlAfWskcJZJ8-zF0qJ48w/view?usp=sharing"
-      }],
-      "name": "UNIT-2",
-      "type": "folder"
+    
     }],
-    "name": "PPS",
+    "name": "DEC",
     "type": "folder"
   },
   {
@@ -59,68 +46,90 @@
     {
       "children": [
       {
-        "name": "soon",
+        "name": "Full Notes",
         "type": "url",
-        "url": "#"
+        "url": "https://drive.google.com/file/d/1aBHuvtekN1cH-EUNAQQPmEmM-KMxDI24/view?usp=sharing"
       }],
-      "name": "#(Coming soon)",
+      "name": "Unit-1",
       "type": "folder"
     }],
-    "name": "Chemistry",
+    "name": "NWA",
     "type": "folder"
   },
   {
     "children": [
-    {
-      "name": "#(iDK)",
-      "type": "folder"
-    }],
+      {
+        "name": "IDK",
+        "type": "folder"
+      }],    
     "name": "Maths",
     "type": "folder"
   },
   {
     "children": [
     {
-      "children": [
-      {
-        "name": "Steam",
+        "name": "Unit-1",
         "type": "url",
-        "url": "https://drive.google.com/file/d/1in8R9uhsE0l6Rpylc2EdyyydIeaMBbux/view?usp=sharing"
-      }],
-      "name": "UNIT-1",
-      "type": "folder"
+        "url": "https://drive.google.com/file/d/19TOGDjWw66HCXYypyr_uH4Usx3YZIlI8/view?usp=sharing"
     },
     {
-      "children": [
-      {
-        "name": "Manufatacturing Process",
-        "type": "url",
-        "url": "https://drive.google.com/file/d/1sMq07STqWf37u3z3YpNxaqMb1B2jNQY1/view?usp=sharing"
-      },
-      {
-        "name": "Refrigeration nd Air Conditioning",
-        "type": "url",
-        "url": "https://drive.google.com/file/d/1sQUfG5sW-rJXxsOCV81O_jly5_b7UnxU/view?usp=sharing"
-      }],
-      "name": "UNIT-2",
-      "type": "folder"
+      "name": "Unit-2",
+      "type": "url",
+      "url": "https://drive.google.com/file/d/1bsa4NtZJ15wXJ4590d5pTLDmDCsWF7Fs/view?usp=sharing"
+    },
+    {
+      "name": "Unit-4",
+      "type": "url",
+      "url": "https://drive.google.com/file/d/1RgEC202RU9jlfxQHTkyQIkuvgsJOD4_C/view?usp=sharing"
     }],
-    "name": "Mechanical",
-    "type": "folder"
-  },
+
+      "name": "EEM",
+      "type": "folder"
+    },
   {
     "children": [
-
-    {
-      "name": "#(Coming soon)",
-      "type": "folder"
-    }],
-    "name": "CIP",
+      {
+        "name": "AEC Full Notes",
+        "type": "url",
+        "url": "https://drive.google.com/file/d/1jJc-EebsyBS6Kvdbb41VdchKsIM1WbXv/view?usp=sharing"
+      },
+      {
+        "children": [
+        {
+          "name": "Unit-2",
+          "type": "url",
+          "url": ""
+        },
+        {
+          "name": "Unit-2 (2) Bad handwritting",
+          "type": "url",
+          "url": ""
+        }],
+        "name": "Small Signal Analysis",
+        "type": "folder"
+      },
+      {
+        "children": [
+          {
+            "name": "Unit-1",
+            "type": "url",
+            "url": "https://drive.google.com/file/d/16BFy0xJ65YNAXnyPjLvtCIGW5zyVGEHE/view?usp=sharing"
+          },
+          {
+            "name": "U-1 FullWave rectifier with BAD writting!(FU11)",
+            "type": "url",
+            "url": "https://drive.google.com/file/d/1S1lb23lplHQV-UiNBHcmJN0Olkard-RN/view?usp=sharing"
+          }],
+        "name": "diodes and transistor circuits",
+        "type": "folder"
+      }],
+    "name": "AEC",
     "type": "folder"
 
   }],
-  "name": "1st Semester",
+  "name": "3rd Semester",
   "type": "folder"
 
   
 }
+
