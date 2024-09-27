@@ -1,44 +1,26 @@
 {
   "children": [
-  {
-    "children": [
-      
-    {
-        "children": [
-        {
-          "name": "Signal" ,
-          "type": "url",
-          "url": "https://drive.google.com/file/d/1CoATwX3Z6PEI1Wdu6txL-a50BV3S4NeP/view?usp=sharing"
-        }],
-      
-      "name": "Unit-1",
-      "type": "folder"
-    }],
-    "name": "SAS",
-    "type": "folder"
-  },
-  
  
   {
     "children": [
     {
       "children": [
       {
-        "name": "Decimal no. to Binary no. ",
+        "name": "#",
         "type": "url",
-        "url": "https://drive.google.com/file/d/16q1JJWR0_dAdpwiyPdjXggiPKxLNwf8M/view?usp=sharing"
+        "url": "#"
       }],
-      "name": "UNIT-1",
+      "name": "#",
       "type": "folder"
     },
     {
       
-        "name": "flipflop notes",
+        "name": "#",
         "type": "url",
-        "url": "https://drive.google.com/file/d/1sYuhRRU9C60NlAfWskcJZJ8-zF0qJ48w/view?usp=sharing"
+        "url": "#"
     
     }],
-    "name": "DEC",
+    "name": "M.Media/SAT.COM",
     "type": "folder"
   },
   {
@@ -46,14 +28,14 @@
     {
       "children": [
       {
-        "name": "Full Notes",
+        "name": "#",
         "type": "url",
-        "url": "https://drive.google.com/file/d/1aBHuvtekN1cH-EUNAQQPmEmM-KMxDI24/view?usp=sharing"
+        "url": "#"
       }],
-      "name": "Unit-1",
+      "name": "#",
       "type": "folder"
     }],
-    "name": "NWA",
+    "name": "M & WC",
     "type": "folder"
   },
   {
@@ -62,72 +44,72 @@
         "name": "IDK",
         "type": "folder"
       }],    
-    "name": "Maths",
+    "name": "IOT",
     "type": "folder"
   },
   {
     "children": [
     {
-        "name": "Unit-1",
+        "name": "#",
         "type": "url",
-        "url": "https://drive.google.com/file/d/19TOGDjWw66HCXYypyr_uH4Usx3YZIlI8/view?usp=sharing"
+        "url": "#"
     },
     {
-      "name": "Unit-2",
+      "name": "#",
       "type": "url",
-      "url": "https://drive.google.com/file/d/1bsa4NtZJ15wXJ4590d5pTLDmDCsWF7Fs/view?usp=sharing"
+      "url": "#"
     },
     {
-      "name": "Unit-4",
+      "name": "#",
       "type": "url",
-      "url": "https://drive.google.com/file/d/1RgEC202RU9jlfxQHTkyQIkuvgsJOD4_C/view?usp=sharing"
+      "url": "#"
     }],
 
-      "name": "EEM",
+      "name": "ANN/ BM & EN",
       "type": "folder"
     },
   {
     "children": [
       {
-        "name": "AEC Full Notes",
+        "name": "",
         "type": "url",
-        "url": "https://drive.google.com/file/d/1jJc-EebsyBS6Kvdbb41VdchKsIM1WbXv/view?usp=sharing"
+        "url": "#"
       },
       {
         "children": [
         {
-          "name": "Unit-2",
+          "name": "#",
           "type": "url",
           "url": ""
         },
         {
-          "name": "Unit-2 (2) Bad handwritting",
+          "name": "#",
           "type": "url",
           "url": ""
         }],
-        "name": "Small Signal Analysis",
+        "name": "#",
         "type": "folder"
       },
       {
         "children": [
           {
-            "name": "Unit-1",
+            "name": "",
             "type": "url",
-            "url": "https://drive.google.com/file/d/16BFy0xJ65YNAXnyPjLvtCIGW5zyVGEHE/view?usp=sharing"
+            "url": "#"
           },
           {
-            "name": "U-1 FullWave rectifier with BAD writting!(FU11)",
+            "name": "",
             "type": "url",
-            "url": "https://drive.google.com/file/d/1S1lb23lplHQV-UiNBHcmJN0Olkard-RN/view?usp=sharing"
+            "url": "#"
           }],
-        "name": "diodes and transistor circuits",
+        "name": "#",
         "type": "folder"
       }],
-    "name": "AEC",
+    "name": "ML / EIT",
     "type": "folder"
 
   }],
-  "name": "6th Semester",
+  "name": "7th Semester",
   "type": "folder"
 
   
